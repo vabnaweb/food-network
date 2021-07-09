@@ -17,6 +17,9 @@ nav a{
     padding: 15px;
 
 }
+.section1{
+    margin-top: 70px;
+}
 /* nav a:hover{
     background-color: brown;
 } */
@@ -61,4 +64,24 @@ nav a{
     padding:250px;
     text-align: justify;
 }
-
+.recipes{
+    display: flex;
+}
+.recipe1{
+    width: 50%;
+    text-align: justify;
+    padding:115px;
+    margin-left:5px;
+}
+.recipe1 img{
+width: 80%;
+margin-left: 25px; 
+border-radius: 25px;
+}
+.center{
+    text-align: center;
+    margin-bottom:-60px ;
+}
+.section2{
+    margin-top:100px;
+}
