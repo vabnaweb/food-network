@@ -1,0 +1,64 @@
+body{
+    font-family: 'Poppins', sans-serif; 
+}
+span{
+    color: dodgerblue;
+}
+nav{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+    margin:0px;
+}
+nav a{
+    text-decoration: none;
+    margin-right:15px;
+    font-size:25px ;
+    padding: 15px;
+
+}
+/* nav a:hover{
+    background-color: brown;
+} */
+.font{
+    font-size: 70px;
+    margin: -10px;
+}
+#font2{
+    font-size:20px ;
+    margin-right: 400px;
+  
+    
+}
+#button-clr{
+    font-size: 20px;
+    background-image: linear-gradient(#0059ff,#67c7e4);
+    margin:5px;
+     padding: 10px;
+     border-radius: 30px;
+}
+.flex{
+    display:flex;
+} 
+.image{
+    height: 550px;
+    width: 600px;
+}
+.second-flex{
+    display:flex;
+    background-image: url("Frame\ 57.jpg");
+    margin-top: 80px;
+
+} 
+
+.person{
+        width: 400px;
+        margin-left: 250px;
+        margin-top: 50px;
+    }
+
+.about{
+    padding:250px;
+    text-align: justify;
+}
+
